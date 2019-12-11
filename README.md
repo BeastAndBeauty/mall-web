@@ -3,7 +3,7 @@
 >学习[macrozheng的mall后台项目](https://github.com/macrozheng/mall-admin-web)
 
 ## 效果图
-![](https://github.com/BeastAndBeauty/mall-web/blob/master/src/assets/images/mall-admin.gif)
+![image](https://github.com/BeastAndBeauty/mall-web/blob/master/src/assets/images/mall-admin.gif)
 
 ## Build Setup
 
